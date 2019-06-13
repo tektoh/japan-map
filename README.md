@@ -1,4 +1,4 @@
-# React + D3 + ToopJSON を使った日本地図のサンプル
+# React + D3 + TopoJSON を使った日本地図のサンプル
 [![Image](https://raw.githubusercontent.com/tektoh/japan-map/master/japan.png)](https://raw.githubusercontent.com/tektoh/japan-map/master/japan.png)
 
 
