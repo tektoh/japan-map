@@ -1,0 +1,24 @@
+{
+  "name": "japan-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "next": "next",
+    "dev": "node server.js",
+    "start": "next start -p $PORT"
+  },
+  "dependencies": {
+    "d3": "^5.9.2",
+    "d3-geo": "^1.11.3",
+    "express": "^4.17.1",
+    "next": "^8.1.0",
+    "prop-types": "^15.7.2",
+    "queue": "^6.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "topojson": "^3.0.2",
+    "topojson-client": "^3.0.0"
+  }
+}
